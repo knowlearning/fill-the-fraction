@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@knowlearning/agents": "^0.1.7",
+    "@knowlearning/agents": "^0.2.5",
     "@knowlearning/fill-text": "^1.0.0",
     "canvas-confetti": "^1.6.0",
     "uuid": "^9.0.0",
