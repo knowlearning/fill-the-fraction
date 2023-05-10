@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@knowlearning/agents':
-    specifier: ^0.2.5
-    version: 0.2.5
+    specifier: ^0.3.2
+    version: 0.3.2
   '@knowlearning/fill-text':
     specifier: ^1.0.0
     version: 1.0.0
@@ -708,7 +708,7 @@ packages:
     engines: {node: ^8.13.0 || >=10.10.0}
     dependencies:
       '@grpc/proto-loader': 0.7.7
-      '@types/node': 20.1.0
+      '@types/node': 20.1.2
     dev: false
 
   /@grpc/proto-loader@0.6.13:
@@ -735,8 +735,8 @@ packages:
       yargs: 17.7.2
     dev: false
 
-  /@knowlearning/agents@0.2.5:
-    resolution: {integrity: sha512-pEe2kkLm8fOfERhhvV5xQ2FYEztTc+0SwPJtDYzS4CPGvY7TP3maO3Ok3+dVvYSiqQzMrzeCoHbQTJsQn3viFA==}
+  /@knowlearning/agents@0.3.2:
+    resolution: {integrity: sha512-TbZ10rgjQy9XkZ4sHLu4M1QfvIjQHIDFz55nt7zfs9QJEJwonHV+D3Rl8eoDFbMtFXbcWrnCU1/R9J5ZoJ9u6g==}
     dependencies:
       fast-json-patch: 3.1.1
       firebase: 9.21.0
@@ -797,8 +797,8 @@ packages:
     resolution: {integrity: sha512-MqTGEo5bj5t157U6fA/BiDynNkn0YknVdh48CMPkTSpFTVmvao5UQmm7uEF6xBEo7qIMAlY/JSleYaE6VOdpaA==}
     dev: false
 
-  /@types/node@20.1.0:
-    resolution: {integrity: sha512-O+z53uwx64xY7D6roOi4+jApDGFg0qn6WHcxe5QeqjMaTezBO/mxdfFXIVAVVyNWKx84OmPB3L8kbVYOTeN34A==}
+  /@types/node@20.1.2:
+    resolution: {integrity: sha512-CTO/wa8x+rZU626cL2BlbCDzydgnFNgc19h4YvizpTO88MFQxab8wqisxaofQJ/9bLGugRdWIuX/TbIs6VVF6g==}
     dev: false
 
   /@vitejs/plugin-basic-ssl@1.0.1(vite@4.3.3):
@@ -1156,7 +1156,7 @@ packages:
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.0
       '@types/long': 4.0.2
-      '@types/node': 20.1.0
+      '@types/node': 20.1.2
       long: 4.0.0
     dev: false
 
@@ -1175,7 +1175,7 @@ packages:
       '@protobufjs/path': 1.1.2
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.0
-      '@types/node': 20.1.0
+      '@types/node': 20.1.2
       long: 5.2.3
     dev: false
 

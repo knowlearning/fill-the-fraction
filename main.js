@@ -1,9 +1,9 @@
 import Editor from './Editor.vue'
 import Player from './Player.vue'
 import './main.css'
-import { BrowserAgent, vuePersistentComponent } from '@knowlearning/agents'
+import { browserAgent, vuePersistentComponent } from '@knowlearning/agents'
 
-window.Agent = BrowserAgent()
+window.Agent = browserAgent()
 
 const url = new URL(window.location.href)
 
